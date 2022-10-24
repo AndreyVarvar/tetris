@@ -1,1 +1,4 @@
 # I DONT KNOW HOW TO USE THIS
+__pycache__/
+*.py[cod]
+*$py.class
